@@ -1,3 +1,4 @@
 # pydominoes
-Dominoes Puzzle
+Dominoes Puzzle 
+de 
 Arthur Tamm e Pedro Civita
